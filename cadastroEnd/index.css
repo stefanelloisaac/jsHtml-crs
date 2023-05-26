@@ -1,0 +1,27 @@
+.row {
+  padding: 1%;
+}
+
+.col-4{
+  padding-left: 25%;
+  padding-top: 0.5%;
+  font-style: bold;
+  text-align: center;
+}
+
+.col-8 {
+  padding-right: 25%;
+}
+
+.divButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-outline-primary {
+  margin: 3px;
+}
+
+.btn-outline-danger {
+  margin: 3px;
+}
